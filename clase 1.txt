@@ -1,0 +1,3 @@
+git init : iniciar para traer cosas de git y asi
+git status: ver que hay en el repositorio
+git add : añadir cosas al repositorio
